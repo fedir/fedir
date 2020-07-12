@@ -6,7 +6,7 @@ My name is Fedir RYKHTIK and I'm an open source developer and enthusiast from Fr
 
 - Go development
 - Cloud native stacks
-- Work with 
+- Work with positive and nice people
 
 ### Certifications
 
