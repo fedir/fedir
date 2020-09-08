@@ -1,18 +1,13 @@
-### Hi there 👋
+### About me
 
 French software developer. Currently looking for new opportunities.
 
-### Professional interests
+### Competences
 
-- Go development
-- Cloud native stacks
-- Work with positive and nice people
-
-### Certifications
-
-- Go language
-- Kubernetes
-- Terraform
+- Development: Go, JavaScript, Python
+- Linux servers: Debian, CentOS, Ubuntu
+- Clouds: Kubernetes, GCP, AWS, Azure
+- IaC: Terraform, Ansible
 
 ## Hobbies
 
