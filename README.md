@@ -17,8 +17,7 @@ French software developer. Currently looking for new opportunities.
 ## Hobbies
 
 - Freediving
-- Photography
-- Underwater photography
+- (Underwater) Photography
 - Cycling
 - Yoga & meditation
 
