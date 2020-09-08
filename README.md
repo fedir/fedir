@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fedir RYKHTIK and I'm an open source developer and enthusiast from France. Currently I'm looking for new opportunities.
+French software developer. Currently looking for new opportunities.
 
 ### Professional interests
 
@@ -18,6 +18,7 @@ My name is Fedir RYKHTIK and I'm an open source developer and enthusiast from Fr
 
 - Freediving
 - Photography
+- Underwater photography
 - Cycling
 - Yoga & meditation
 
