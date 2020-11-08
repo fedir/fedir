@@ -4,7 +4,7 @@ French software developer. Currently looking for new opportunities.
 
 ### Competences
 
-- Development: Go, JavaScript, Python
+- Development: Go, Python, JavaScript
 - Linux servers: Debian, CentOS, Ubuntu
 - Clouds: Kubernetes, GCP, AWS, Azure
 - IaC: Terraform, Ansible
