@@ -1,21 +1,20 @@
 ### About me
 
-French cloud developer and trainer.
+French Cloud Developer and Trainer.
 
 ### Competences
 
 - Development: Go, Python, JavaScript
 - Linux servers: Debian, CentOS, Ubuntu
-- Clouds: Kubernetes, GCP, AWS, Azure
-- IaC: Terraform, Ansible
-- CI/CD: Jenkins, Gitlab CI
+- Clouds: GCP, AWS, Azure
+- DevOps: Kubernetes, Terraform, Ansible, Jenkins, Gitlab
 
 ## Hobbies
 
 - Freediving
 - (Underwater) Photography
 - Cycling
-- Yoga & meditation
+- Yoga & Meditation
 
 <!--
 **fedir/fedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
