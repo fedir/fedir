@@ -1,6 +1,6 @@
 ### About me
 
-French software developer. Currently looking for new opportunities.
+French cloud developer and trainer.
 
 ### Competences
 
@@ -8,6 +8,7 @@ French software developer. Currently looking for new opportunities.
 - Linux servers: Debian, CentOS, Ubuntu
 - Clouds: Kubernetes, GCP, AWS, Azure
 - IaC: Terraform, Ansible
+- CI/CD: Jenkins, Gitlab CI
 
 ## Hobbies
 
