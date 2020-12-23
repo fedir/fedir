@@ -1,6 +1,6 @@
 ### About me
 
-French Cloud Developer and Trainer.
+French Cloud Developer and Trainer
 
 ### Competences
 
