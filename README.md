@@ -1,8 +1,8 @@
-### About me
+## About me
 
 French Cloud Developer and Trainer
 
-### Competences
+## Competences
 
 - Development: Go, Python, JavaScript
 - Linux servers: Debian, CentOS, Ubuntu
